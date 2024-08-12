@@ -38,9 +38,9 @@
 
 18 - Exibir todos os números ímpares de 1 a 100.
 
-20 - Somar todos os números de 1 a 100.
+19 - Somar todos os números de 1 a 100.
 
-Somar todos os números pares de 1 a 100.
+20 - Somar todos os números pares de 1 a 100.
 
 Somar todos os números ímpares de 1 a 100.
 
