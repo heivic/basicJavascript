@@ -14,4 +14,8 @@ console.log(`O Fatorial de ${numero}! é ${fatorial(numero)}`);
 /*
 Exercicio usando função de recursão
 recursão é uma técnica onde uma função chama a si mesma para resolver um problema menor.
+
+Material de estudo:
+
+https://www.youtube.com/watch?v=3sm_nq7lE20
 */
