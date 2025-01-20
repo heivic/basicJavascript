@@ -42,15 +42,15 @@
 
 20 - Somar todos os números pares de 1 a 100.
 
-Somar todos os números ímpares de 1 a 100.
+21 - Somar todos os números ímpares de 1 a 100.
 
-Tabuada de multiplicação.
+22 - Tabuada de multiplicação.
 
-Verificar se uma string é um palíndromo.
+23 - Verificar se uma string é um palíndromo.
 
-Inverter uma string.
+24 - Inverter uma string.
 
-Calcular a soma dos dígitos de um número.
+25 - Calcular a soma dos dígitos de um número.
 
 Verificar se um número é primo.
 
